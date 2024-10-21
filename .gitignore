@@ -1,0 +1,6 @@
+.terraform.lock.hcl
+.terraform/
+variables.tf
+la3_bKey.pem
+terraform.tfstate
+terraform.tfstate.backup
